@@ -3,3 +3,13 @@ C:\Users\ruben\School Ma\ma\Visual Studio X\Csharp prog 1.4\CsharpProgOpdr\Cshar
 C:\Users\ruben\School Ma\ma\Visual Studio X\Csharp prog 1.4\CsharpProgOpdr\CsharpProgOpdr\obj\Debug\net7.0\CsharpProgOpdr.AssemblyInfoInputs.cache
 C:\Users\ruben\School Ma\ma\Visual Studio X\Csharp prog 1.4\CsharpProgOpdr\CsharpProgOpdr\obj\Debug\net7.0\CsharpProgOpdr.AssemblyInfo.cs
 C:\Users\ruben\School Ma\ma\Visual Studio X\Csharp prog 1.4\CsharpProgOpdr\CsharpProgOpdr\obj\Debug\net7.0\CsharpProgOpdr.csproj.CoreCompileInputs.cache
+C:\Users\ruben\School Ma\ma\Visual Studio X\Csharp prog 1.4\CsharpProgOpdr\CsharpProgOpdr\bin\Debug\net7.0\CsharpProgOpdr.exe
+C:\Users\ruben\School Ma\ma\Visual Studio X\Csharp prog 1.4\CsharpProgOpdr\CsharpProgOpdr\bin\Debug\net7.0\CsharpProgOpdr.deps.json
+C:\Users\ruben\School Ma\ma\Visual Studio X\Csharp prog 1.4\CsharpProgOpdr\CsharpProgOpdr\bin\Debug\net7.0\CsharpProgOpdr.runtimeconfig.json
+C:\Users\ruben\School Ma\ma\Visual Studio X\Csharp prog 1.4\CsharpProgOpdr\CsharpProgOpdr\bin\Debug\net7.0\CsharpProgOpdr.dll
+C:\Users\ruben\School Ma\ma\Visual Studio X\Csharp prog 1.4\CsharpProgOpdr\CsharpProgOpdr\bin\Debug\net7.0\CsharpProgOpdr.pdb
+C:\Users\ruben\School Ma\ma\Visual Studio X\Csharp prog 1.4\CsharpProgOpdr\CsharpProgOpdr\obj\Debug\net7.0\CsharpProgOpdr.dll
+C:\Users\ruben\School Ma\ma\Visual Studio X\Csharp prog 1.4\CsharpProgOpdr\CsharpProgOpdr\obj\Debug\net7.0\refint\CsharpProgOpdr.dll
+C:\Users\ruben\School Ma\ma\Visual Studio X\Csharp prog 1.4\CsharpProgOpdr\CsharpProgOpdr\obj\Debug\net7.0\CsharpProgOpdr.pdb
+C:\Users\ruben\School Ma\ma\Visual Studio X\Csharp prog 1.4\CsharpProgOpdr\CsharpProgOpdr\obj\Debug\net7.0\CsharpProgOpdr.genruntimeconfig.cache
+C:\Users\ruben\School Ma\ma\Visual Studio X\Csharp prog 1.4\CsharpProgOpdr\CsharpProgOpdr\obj\Debug\net7.0\ref\CsharpProgOpdr.dll

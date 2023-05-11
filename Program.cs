@@ -1,5 +1,23 @@
 ﻿namespace CsharpProgOpdr
 {
+
+    internal class ConsoleMon 
+    {
+        internal int health;
+        internal int energy;
+        public ConsoleMon() 
+        {
+         
+        }
+        internal void TakeDamage (int damage) 
+        {
+
+        }
+        internal void DepleteEnergy(int energy) 
+        {
+
+        }
+    }
     internal partial class Program
     {
         static void Main(string[] args)
