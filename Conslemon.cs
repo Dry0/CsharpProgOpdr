@@ -10,7 +10,7 @@
 
             int energy;
 
-            string name = V;
+            readonly string name = V;
 
             internal void TakeDamage(int damage)
             {

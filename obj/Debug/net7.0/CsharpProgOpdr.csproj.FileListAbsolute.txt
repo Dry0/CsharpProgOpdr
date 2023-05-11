@@ -1,0 +1,5 @@
+C:\Users\ruben\School Ma\ma\Visual Studio X\Csharp prog 1.4\CsharpProgOpdr\CsharpProgOpdr\obj\Debug\net7.0\CsharpProgOpdr.csproj.AssemblyReference.cache
+C:\Users\ruben\School Ma\ma\Visual Studio X\Csharp prog 1.4\CsharpProgOpdr\CsharpProgOpdr\obj\Debug\net7.0\CsharpProgOpdr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\School Ma\ma\Visual Studio X\Csharp prog 1.4\CsharpProgOpdr\CsharpProgOpdr\obj\Debug\net7.0\CsharpProgOpdr.AssemblyInfoInputs.cache
+C:\Users\ruben\School Ma\ma\Visual Studio X\Csharp prog 1.4\CsharpProgOpdr\CsharpProgOpdr\obj\Debug\net7.0\CsharpProgOpdr.AssemblyInfo.cs
+C:\Users\ruben\School Ma\ma\Visual Studio X\Csharp prog 1.4\CsharpProgOpdr\CsharpProgOpdr\obj\Debug\net7.0\CsharpProgOpdr.csproj.CoreCompileInputs.cache
