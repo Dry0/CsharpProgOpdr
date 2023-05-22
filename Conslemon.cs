@@ -2,15 +2,15 @@
 {
     internal partial class Program
     {
-        private const string V = "name";
+        
 
-        class Conslemon 
+        class ConsoleMon 
         {
-            int health;
+            internal int health;
 
-            int energy;
+            internal int energy;
 
-            readonly string name = V;
+            readonly string name ;
 
             internal void TakeDamage(int damage)
             {

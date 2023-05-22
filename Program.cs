@@ -1,28 +1,31 @@
 ﻿namespace CsharpProgOpdr
 {
 
-    internal class ConsoleMon 
-    {
-        internal int health;
-        internal int energy;
-        public ConsoleMon() 
-        {
-         
-        }
-        internal void TakeDamage (int damage) 
-        {
 
-        }
-        internal void DepleteEnergy(int energy) 
-        {
-
-        }
-    }
     internal partial class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
+            TestConsoleMonFunctions();
+            TestSkillFunctions();
+            Console.ReadLine();
+        }
+        static void TestSkillFunctions()
+        {
+            Console.WriteLine("TestSkillFunctions");
+            ConsoleMon casterMon = new ConsoleMon();
+            ConsoleMon targetMon = new ConsoleMon();
+            Skill skill = new Skill()
+            {
+                damage = 100,
+                energyCost = 20,
+            };
+            skill.UseOn(targetMon, casterMon);
+
+            Console.WriteLine(targetMon.health == -100);
+
+            Console.WriteLine(casterMon.energy == -20);
         }
 
         static void TestConsoleMonFunctions()
