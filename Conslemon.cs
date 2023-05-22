@@ -6,6 +6,7 @@
 
         class ConsoleMon 
         {
+            private List<Skill> skills;
             internal int health;
 
             internal int energy;
@@ -21,6 +22,8 @@
             {
                 this.energy -= energy;
             }
+
+
         }
     }
 
