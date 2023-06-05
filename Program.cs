@@ -10,7 +10,7 @@
             TestConsoleMonFunctions();
             TestSkillFunctions();
             Console.ReadLine();
-        }
+    }
         static void TestSkillFunctions()
         {
             Console.WriteLine("TestSkillFunctions");
