@@ -17,6 +17,8 @@
             {
                 caster.DepleteEnergy(energyCost);
                 target.TakeDamage(damage);
+
+                
             }
 
 
