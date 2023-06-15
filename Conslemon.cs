@@ -3,14 +3,16 @@
     internal partial class Program
     {
         private List<Skill> skills;
-        class ConsoleMon 
+        class ConsoleMon
         {
 
             internal int health;
 
             internal int energy;
 
-            readonly string name ;
+            internal Element weakness;
+
+            readonly string name;
 
             internal void TakeDamage(int damage)
             {
